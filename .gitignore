@@ -1,0 +1,5 @@
+dev_images/
+test_data/
+train_images/
+validation_images/
+*.gdoc
